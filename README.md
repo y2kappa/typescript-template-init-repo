@@ -3,7 +3,5 @@
 ```
 $ npm run build
 $ npm run start
+$ npm run test
 ```
-
-## TODO
-- [ ] add unit tests sync & async

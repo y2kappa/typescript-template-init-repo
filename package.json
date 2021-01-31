@@ -22,6 +22,7 @@
   },
   "devDependencies": {
     "@types/node": "^12.19.15",
+    "@types/node-fetch": "^2.5.8",
     "husky": "^4.3.8",
     "prettier": "^2.2.1",
     "pretty-quick": "^3.1.0",
@@ -32,8 +33,13 @@
     "@types/chai": "^4.2.14",
     "@types/crypto-js": "^4.0.1",
     "@types/mocha": "^8.2.0",
+    "@typescript-eslint/eslint-plugin": "^4.14.1",
+    "@typescript-eslint/parser": "^4.14.1",
     "chai": "^4.2.0",
     "crypto-js": "^4.0.0",
+    "eslint": "^7.19.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-prettier": "^3.3.1",
     "mocha": "^8.2.1",
     "node-fetch": "^2.6.1",
     "ts-mocha": "^8.0.0"
