@@ -45,4 +45,8 @@ const main = async () => {
     encryptionExample();
 }
 
+export const hello = () => {
+    return "world";
+}
+
 main()
